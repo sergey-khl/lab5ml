@@ -4,11 +4,11 @@ Going around duckietown and detecting numbers and apriltags until all are detect
 
 ## Run on your machine
 
-2. Build it:
+1. Build it:
   * ```shell 
     dts devel build -f 
     ```   
-3. Run it:
+2. Run it:
   * ```shell 
     dts devel run -R MY_ROBOT
     ```   
