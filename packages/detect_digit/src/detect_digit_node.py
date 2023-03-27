@@ -14,7 +14,7 @@ from turbojpeg import TurboJPEG
 import torch.nn.functional as F
 
 
-
+# https://medium.com/@nutanbhogendrasharma/pytorch-convolutional-neural-network-with-mnist-dataset-4e8a4265e118
 class MLP(nn.Module):
     def __init__(self, input_dim, output_dim):
         super().__init__()
